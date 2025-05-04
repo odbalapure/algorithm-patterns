@@ -12,7 +12,7 @@ class Trie:
         """
         Insert a word
         Time: O(w)
-        Space: O(w)
+        Space: O(1)
         NOTE: `TrieNode` is not counted as part of the auxiliary space
         """
         curr = self.root
