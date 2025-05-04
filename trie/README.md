@@ -2,10 +2,12 @@
 
 It is a trie data structure that can be used to find words, given a prefix. It can be done using `O(w)`, where w is the length of the word.
 
-## Complexity
+## Use Case
 - Add and search words.
 - Replace words in a sentence.
 - Design search autocomplete.
+
+## Complexity
 
 ### Time
 
