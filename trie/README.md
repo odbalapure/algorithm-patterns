@@ -1,6 +1,6 @@
 ## Trie
 
-It is a trie data structure that can be used to find words, given a prefix. It can be done using `O(w)`, where w is the length of the word.
+Trie data structure can be used to find words, given a prefix. It can be done using `O(w)`, where `w` is the length of the word.
 
 ## Use Case
 - Add and search words.
@@ -27,4 +27,4 @@ It is a trie data structure that can be used to find words, given a prefix. It c
 
 > **w**: length of the word of prefix   
 > **n**: total no. of words  
-> Total space take will be `O(n * w)`
+> Total space taken will be `O(n * w)`
