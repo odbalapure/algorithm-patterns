@@ -1,9 +1,15 @@
 # Algorithm Patterns
 Algorithm patterns covered in the repository:
+- [Combinations](./combinations/)
 - [Fast Slow Pointers](./fast_slow_pointer/)
 - [Kadane's Algorithm](./kadane/)
+- [Permutation](./permutation/)
 - [Range Sum Query](./range_sum_query/)
+- [Segment Tree](./segment_tree/)
 - [Sliding Window (Fixed Size)](./sliding_window_fixed/)
 - [Sliding Window (Variable Size)](./sliding_window_variable_size/)
+- [Subsets](./subsets/)
 - [Trie](./trie/)
+- [Two Heaps](./two_heaps/)
 - [Two Pointers](./two_pointer/)
+- [Union Find](./union_find/)
